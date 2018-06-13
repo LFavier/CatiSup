@@ -22,5 +22,6 @@ return [
     'submit' => 'Submit',
     'wrong_input' => 'Your input is incorrect or empty.',
     'wrong_survey_id' => 'The currently is no active survey with that ID.',
+    'gittest' => 'git',
 
 ];
